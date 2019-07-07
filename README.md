@@ -5,13 +5,13 @@
 
 ### 1. Select any Repo 
 
-Select a repo you want to contribute (for now go to : https://github.com/bevylabs/GitTutorial)
+Select a repo you want to contribute (for now go to : https://github.com/bevylabs/GitTutorial_Bevylabs)
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [GitTutorial](https://github.com/bevylabs/GitTutorial) by using the <a href="https://github.com/bevylabs/GitTutorial/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/bevylabs/GitTutorial/new/master?readme=1#fork-destination-box).
+You can get your own fork/copy of [GitTutorial_Bevylabs](https://github.com/bevylabs/GitTutorial_Bevylabs) by using the <a href="https://github.com/bevylabs/GitTutorial/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/bevylabs/GitTutorial/new/master?readme=1#fork-destination-box).
 
-[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/bevylabs/GitTutorial)
+[![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/bevylabs/GitTutorial_Bevylabs)
 
 ### 3. Clone it :rabbit2:
 
@@ -37,7 +37,7 @@ Push it.
 ### 8. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing 
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/bevylabs/GitTutorial/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/bevylabs/GitTutorial_Bevylabs/pulls).
 
 ### 5. Give this Project a Star :star:
 
